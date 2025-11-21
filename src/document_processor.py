@@ -1,6 +1,3 @@
-import PyPDF2
-from docx import Document
-
 
 import PyPDF2
 from docx import Document
