@@ -40,13 +40,14 @@ ollama pull qwen3:8b
 ```
 
 ### Set Up Python Environment
-1. Create Conda Environment
-```bash
-conda create -p lmsenv python==3.12 -y```
 
-Activate environment:
-```bash
-conda activate lmsenv/```
+```
+#Create Conda Environment
+conda create -p lmsenv python==3.12 -y
+
+#Activate environment:
+conda activate lmsenv/
+```
 
 
 ### 2. Install Python Dependencies
