@@ -294,35 +294,6 @@ Columns include: question, options, correct_answer, difficulty, explanation, typ
 - Local Ollama installation required (not cloud-based)
 - Processing time increases with document length
 
-## Future Enhancements
-
-### Question Bank Generator:
-- Support for more question types (True/False, matching, fill-in-the-blank)
-- Bulk document processing
-- Question difficulty customization
-- Integration with popular LMS platforms (Moodle, Canvas, Blackboard)
-- Question quality scoring and validation
-
-### Course Document Chatbot:
-- Support for more document formats (TXT, RTF, etc.)
-- Semantic search for better context retrieval
-- Document comparison features
-- Export chat history
-- Multi-document support
-- Voice input/output capabilities
-
-### Both Applications:
-- Cloud deployment options
-- Enhanced analytics and reporting
-- Multi-language support
-- Mobile app versions
-
-## Contributing
-Contributions are welcome! Please feel free to submit issues or pull requests.
-
-## License
-This project is available for educational and commercial use.
-
 ---
 
 **Made with ❤️ using Streamlit | Powered by Namdeo Patil**
