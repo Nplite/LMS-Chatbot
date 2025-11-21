@@ -36,6 +36,11 @@ Both applications leverage Ollama's local LLM models to provide intelligent, con
 
 ## Installation
 
+### Clone the Github Repo
+```bash
+git clone https://github.com/Nplite/LMS-Chatbot.git
+```
+
 ### Install & Verify Ollama 
 
 #### 1. Check if Ollama is installed
